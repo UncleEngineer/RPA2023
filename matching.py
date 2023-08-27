@@ -1,5 +1,4 @@
-# matching.py
-# http://cons-robotics.com/API/matching.py
+
 
 import numpy as np
 import cv2
